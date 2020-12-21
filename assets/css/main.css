@@ -3321,7 +3321,7 @@ input, select, textarea {
 
 				#main .spotlight .image {
 					width: 100%;
-					overflow: hidden;
+					overflow: visible;
 				}
 
 					#main .spotlight .image img {
