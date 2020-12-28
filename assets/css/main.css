@@ -3205,7 +3205,7 @@ input, select, textarea {
 					border-top-width: 1px;
 				}
 
-					#main .features .content .feature:nth-child(-n + 3) {
+					#main .features .content .feature:nth-child(-n + 4) {
 						border-top-width: 0;
 					}
 
