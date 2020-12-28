@@ -3209,7 +3209,7 @@ input, select, textarea {
 						border-top-width: 0;
 					}
 
-					#main .features .content .feature:nth-child(3n - 2) {
+					#main .features .content .feature:nth-child(4n - 3) {
 						border-left-width: 0;
 					}
 
